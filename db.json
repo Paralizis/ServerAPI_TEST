@@ -1,24 +1,9 @@
 {
-  "despacho_detalles": {
-    "status": 0,
-    "message": "Login exitoso",
-    "data": [
-        {
-        "id": "45",
-        "usuario_intranet_junior_id": "162",
-        "empresa": "Fonocopete",
-        "direccion": "Chile España 3055, Ñuñoa, Región Metropolitana, Chile",
-        "latitude": "-33.4520963",
-        "longitude": "-70.5981031"
-      },
-      {
-        "id": "46",
-        "usuario_intranet_junior_id": "162",
-        "empresa": "No se llama",
-        "direccion": "Calle Simon Bolivar 2913, Ñuñoa, Región Metropolitana, Chile",
-        "latitude": "-33.4493996",
-        "longitude": "-70.59959"
-      }
-    ]
-  }
+  "posts": [
+    { "id": 1, "title": "json-server", "author": "typicode" }
+  ],
+  "comments": [
+    { "id": 1, "body": "some comment", "postId": 1 }
+  ],
+  "profile": { "name": "typicode" }
 }
