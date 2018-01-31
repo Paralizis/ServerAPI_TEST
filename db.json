@@ -1,7 +1,7 @@
 {
   "despacho_detalles": {
     "status": 0,
-    "message": "Login exitoso",
+    "message": "Carga exitosa",
     "data": [
         {
         "id": "45",
@@ -20,5 +20,35 @@
         "longitude": "-70.59959"
       }
     ]
+  },
+  "login": {
+    "status": 0,
+    "message": "Login exitoso",
+    "data": {
+      "id": "45",
+      "nombre_visible": "Felipe Santander Flores"
+    }
+  },
+  "entregar_despacho": {
+    "status": 0,
+    "message": "Carga exitosa",
+    "data": [
+      {
+        "id": "16",
+        "destinatario": "Joselin Stalin",
+        "contenido": "Mein Kaft",
+        "observacion": "",
+        "entregado": ""
+      },
+      {
+        "id": "17",
+        "destinatario": "Adolfa Hitler",
+        "contenido": "Motherland",
+        "observacion": "",
+        "entregado": ""
+      }
+    ],
+    "observaciones": "",
+    "cantidad": "2"
   }
 }
