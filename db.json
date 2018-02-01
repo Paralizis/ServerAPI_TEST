@@ -48,6 +48,20 @@
         "entregado": ""
       }
     ],
+    "observaciones_predefinidas": [
+      {
+        "id": "1",
+        "observacion": "no se llama"
+      },
+      {
+        "id": "2",
+        "observacion": "Holaaa"
+      },
+      {
+        "id": "3",
+        "observacion": "NOOOOO"
+      }
+    ],
     "observaciones": "",
     "cantidad": "2"
   }
