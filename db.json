@@ -1,5 +1,5 @@
 {
-  "despacho_detalles": {
+  "despacho_detalles?id=162": {
     "status": 0,
     "message": "Carga exitosa",
     "data": [
@@ -25,11 +25,11 @@
     "status": 0,
     "message": "Login exitoso",
     "data": {
-      "id": "45",
+      "id": "162",
       "nombre_visible": "Felipe Santander Flores"
     }
   },
-  "entregar_despacho": {
+  "entregar_despacho?=45": {
     "status": 0,
     "message": "Carga exitosa",
     "data": [
@@ -46,23 +46,41 @@
         "contenido": "Motherland",
         "observacion": "",
         "entregado": ""
+      },
+      {
+        "id": "18",
+        "destinatario": "Adolasdasda Hitler",
+        "contenido": "Motherasdadasdland",
+        "observacion": "",
+        "entregado": ""
+      },
+      {
+        "id": "18",
+        "destinatario": "Ado13as123123sdasda Hitler",
+        "contenido": "12313123r123asdadasdland",
+        "observacion": "",
+        "entregado": ""
       }
     ],
-    "observaciones_predefinidas": [
+    "observaciones": [
       {
         "id": "1",
-        "observacion": "no se llama"
+        "nombre": "no se llama"
       },
       {
         "id": "2",
-        "observacion": "Holaaa"
+        "nombre": "Holaaa"
       },
       {
         "id": "3",
-        "observacion": "NOOOOO"
+        "nombre": "NOOOOO"
       }
     ],
-    "observaciones": "",
+    "observacion": "",
     "cantidad": "2"
+  },
+  "app_udpdate_despacho": {
+    "status": 0,
+    "message": "Carga exitosa"
   }
 }
